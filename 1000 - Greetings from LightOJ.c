@@ -3,7 +3,7 @@
 int main()
 
 {
-    int T,a,b,i,j,sum,ccase=1;
+    int T,a,b,i,sum,ccase=1;
 
     scanf("%d",&T);
 
